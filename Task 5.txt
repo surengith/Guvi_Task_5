@@ -1,0 +1,62 @@
+Test Case and Bug Reporting
+
+
+
+Task Description:
+
+Project management tool JIRA
+
+
+Scenario Based Questions
+
+
+QI. Write as many test cases as you can for a given scenario using Excel sheet The Excel sheet
+should include the following columns.
+
+
+
+Q2. Write the key points on Test Scenario, Test Case, Test Strategy and Plan, Test Summary
+
+ Report 
+https://bookmyshow.com
+
+
+•
+Test Scenario IDRequirement Matrix/User Story): A unique identifier for cach
+test case For Ex'TS-1,TS-2TS-3... TSn.
+
+
+•Test Scenario: A brief description of the test case.
+•Test Case ID: A unique ID for testcase Forex: TC-1,TC-2... TC
+
+
+•Test Steps: A detailed list of the steps to be followed to execute the test case.
+
+•Input. The input of each step taken by user.
+
+
+•Expected Results: The expected outcome of cach step in the test case.
+
+
+•Actual Results: The actual outcome of each step in the test case.
+
+
+•Pass/Fail: Whether the test case passed or failed.
+
+
+•Test Case Complexity
+Test Case Severity
+
+
+
+
+How do I submit my work?
+
+Create Test scenarios using Excel and Jira tool
+
+ Take screenshots of the Page and upload in google doc
+
+Upload Screenshot of Jira tool and Excel sheet to github repo or google doc
+
+(https://github.com).
+Submit your URLS in the portal
